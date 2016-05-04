@@ -1,0 +1,80 @@
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\BancoDeDados\BancoDeDados\bin\Debug\BancoDeDados.dll
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\BancoDeDados\BancoDeDados\bin\Debug\BancoDeDados.pdb
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\BancoDeDados\BancoDeDados\bin\Debug\Npgsql.dll
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\BancoDeDados\BancoDeDados\bin\Debug\Mono.Security.dll
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\BancoDeDados\BancoDeDados\bin\Debug\Npgsql.pdb
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\BancoDeDados\BancoDeDados\bin\Debug\Npgsql.xml
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\BancoDeDados\BancoDeDados\bin\Debug\de\Npgsql.resources.dll
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\BancoDeDados\BancoDeDados\bin\Debug\es\Npgsql.resources.dll
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\BancoDeDados\BancoDeDados\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\BancoDeDados\BancoDeDados\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\BancoDeDados\BancoDeDados\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\BancoDeDados\BancoDeDados\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\BancoDeDados\BancoDeDados\obj\Debug\BancoDeDados.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\BancoDeDados\BancoDeDados\obj\Debug\BancoDeDados.dll
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\BancoDeDados\BancoDeDados\obj\Debug\BancoDeDados.pdb
+C:\Users\5096138\Desktop\BancoDeDados\BancoDeDados\bin\Debug\BancoDeDados.dll
+C:\Users\5096138\Desktop\BancoDeDados\BancoDeDados\bin\Debug\BancoDeDados.pdb
+C:\Users\5096138\Desktop\BancoDeDados\BancoDeDados\bin\Debug\Mono.Security.dll
+C:\Users\5096138\Desktop\BancoDeDados\BancoDeDados\bin\Debug\Npgsql.pdb
+C:\Users\5096138\Desktop\BancoDeDados\BancoDeDados\bin\Debug\Npgsql.xml
+C:\Users\5096138\Desktop\BancoDeDados\BancoDeDados\bin\Debug\de\Npgsql.resources.dll
+C:\Users\5096138\Desktop\BancoDeDados\BancoDeDados\bin\Debug\es\Npgsql.resources.dll
+C:\Users\5096138\Desktop\BancoDeDados\BancoDeDados\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\5096138\Desktop\BancoDeDados\BancoDeDados\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\5096138\Desktop\BancoDeDados\BancoDeDados\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\5096138\Desktop\BancoDeDados\BancoDeDados\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\5096138\Desktop\BancoDeDados\BancoDeDados\obj\Debug\BancoDeDados.csprojResolveAssemblyReference.cache
+C:\Users\5096138\Desktop\BancoDeDados\BancoDeDados\obj\Debug\BancoDeDados.dll
+C:\Users\5096138\Desktop\BancoDeDados\BancoDeDados\obj\Debug\BancoDeDados.pdb
+C:\Users\Dell\Desktop\BancoDeDados 1.2\BancoDeDados\obj\Debug\BancoDeDados.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\BancoDeDados 1.2\BancoDeDados\obj\Debug\BancoDeDados.dll
+C:\Users\Dell\Desktop\BancoDeDados 1.2\BancoDeDados\obj\Debug\BancoDeDados.pdb
+C:\Users\Dell\Desktop\BancoDeDados 1.2\BancoDeDados\bin\Debug\BancoDeDados.dll
+C:\Users\Dell\Desktop\BancoDeDados 1.2\BancoDeDados\bin\Debug\BancoDeDados.pdb
+C:\Users\Dell\Desktop\BancoDeDados 1.2\BancoDeDados\bin\Debug\Bibilioteca.dll
+C:\Users\Dell\Desktop\BancoDeDados 1.2\BancoDeDados\bin\Debug\NegocioPrincipal.dll
+C:\Users\Dell\Desktop\BancoDeDados 1.2\BancoDeDados\bin\Debug\Mono.Security.dll
+C:\Users\Dell\Desktop\BancoDeDados 1.2\BancoDeDados\bin\Debug\Bibilioteca.pdb
+C:\Users\Dell\Desktop\BancoDeDados 1.2\BancoDeDados\bin\Debug\NegocioPrincipal.pdb
+C:\Users\Dell\Desktop\BancoDeDados 1.2\BancoDeDados\bin\Debug\Npgsql.pdb
+C:\Users\Dell\Desktop\BancoDeDados 1.2\BancoDeDados\bin\Debug\Npgsql.xml
+C:\Users\Dell\Desktop\BancoDeDados 1.2\BancoDeDados\bin\Debug\de\Npgsql.resources.dll
+C:\Users\Dell\Desktop\BancoDeDados 1.2\BancoDeDados\bin\Debug\es\Npgsql.resources.dll
+C:\Users\Dell\Desktop\BancoDeDados 1.2\BancoDeDados\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\Dell\Desktop\BancoDeDados 1.2\BancoDeDados\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\Dell\Desktop\BancoDeDados 1.2\BancoDeDados\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\Dell\Desktop\BancoDeDados 1.2\BancoDeDados\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\Dell\Desktop\BancoDeDados 1.2\BancoDeDados\bin\Debug\CamadaLogica.dll
+C:\Users\Dell\Desktop\BancoDeDados 1.2\BancoDeDados\bin\Debug\CamadaLogica.pdb
+C:\Users\Dell\Desktop\BancoDeDados 1.5\BancoDeDados\bin\Debug\BancoDeDados.dll
+C:\Users\Dell\Desktop\BancoDeDados 1.5\BancoDeDados\bin\Debug\BancoDeDados.pdb
+C:\Users\Dell\Desktop\BancoDeDados 1.5\BancoDeDados\bin\Debug\Bibilioteca.dll
+C:\Users\Dell\Desktop\BancoDeDados 1.5\BancoDeDados\bin\Debug\CamadaLogica.dll
+C:\Users\Dell\Desktop\BancoDeDados 1.5\BancoDeDados\bin\Debug\NegocioPrincipal.dll
+C:\Users\Dell\Desktop\BancoDeDados 1.5\BancoDeDados\bin\Debug\Mono.Security.dll
+C:\Users\Dell\Desktop\BancoDeDados 1.5\BancoDeDados\bin\Debug\Bibilioteca.pdb
+C:\Users\Dell\Desktop\BancoDeDados 1.5\BancoDeDados\bin\Debug\CamadaLogica.pdb
+C:\Users\Dell\Desktop\BancoDeDados 1.5\BancoDeDados\bin\Debug\NegocioPrincipal.pdb
+C:\Users\Dell\Desktop\BancoDeDados 1.5\BancoDeDados\bin\Debug\Npgsql.pdb
+C:\Users\Dell\Desktop\BancoDeDados 1.5\BancoDeDados\bin\Debug\Npgsql.xml
+C:\Users\Dell\Desktop\BancoDeDados 1.5\BancoDeDados\bin\Debug\de\Npgsql.resources.dll
+C:\Users\Dell\Desktop\BancoDeDados 1.5\BancoDeDados\bin\Debug\es\Npgsql.resources.dll
+C:\Users\Dell\Desktop\BancoDeDados 1.5\BancoDeDados\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\Dell\Desktop\BancoDeDados 1.5\BancoDeDados\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\Dell\Desktop\BancoDeDados 1.5\BancoDeDados\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\Dell\Desktop\BancoDeDados 1.5\BancoDeDados\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\Dell\Desktop\BancoDeDados 1.5\BancoDeDados\obj\Debug\BancoDeDados.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\BancoDeDados 1.5\BancoDeDados\obj\Debug\BancoDeDados.dll
+C:\Users\Dell\Desktop\BancoDeDados 1.5\BancoDeDados\obj\Debug\BancoDeDados.pdb
+C:\Users\dougl\Documents\7º Período\Inteligência Artificial\ContratacoesJogadoresRBC\BancoDeDados\bin\Debug\BancoDeDados.dll
+C:\Users\dougl\Documents\7º Período\Inteligência Artificial\ContratacoesJogadoresRBC\BancoDeDados\bin\Debug\BancoDeDados.pdb
+C:\Users\dougl\Documents\7º Período\Inteligência Artificial\ContratacoesJogadoresRBC\BancoDeDados\bin\Debug\Bibilioteca.dll
+C:\Users\dougl\Documents\7º Período\Inteligência Artificial\ContratacoesJogadoresRBC\BancoDeDados\bin\Debug\CamadaNegocioPrincipal.dll
+C:\Users\dougl\Documents\7º Período\Inteligência Artificial\ContratacoesJogadoresRBC\BancoDeDados\bin\Debug\Mono.Security.dll
+C:\Users\dougl\Documents\7º Período\Inteligência Artificial\ContratacoesJogadoresRBC\BancoDeDados\bin\Debug\Npgsql.dll
+C:\Users\dougl\Documents\7º Período\Inteligência Artificial\ContratacoesJogadoresRBC\BancoDeDados\bin\Debug\Bibilioteca.pdb
+C:\Users\dougl\Documents\7º Período\Inteligência Artificial\ContratacoesJogadoresRBC\BancoDeDados\bin\Debug\CamadaNegocioPrincipal.pdb
+C:\Users\dougl\Documents\7º Período\Inteligência Artificial\ContratacoesJogadoresRBC\BancoDeDados\obj\Debug\BancoDeDados.dll
+C:\Users\dougl\Documents\7º Período\Inteligência Artificial\ContratacoesJogadoresRBC\BancoDeDados\obj\Debug\BancoDeDados.pdb
+C:\Users\dougl\Documents\7º Período\Inteligência Artificial\ContratacoesJogadoresRBC\BancoDeDados\obj\Debug\BancoDeDados.csprojResolveAssemblyReference.cache

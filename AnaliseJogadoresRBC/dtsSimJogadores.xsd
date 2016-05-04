@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dtsSimJogadores" targetNamespace="http://tempuri.org/dtsSimJogadores.xsd" xmlns:mstns="http://tempuri.org/dtsSimJogadores.xsd" xmlns="http://tempuri.org/dtsSimJogadores.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dtsSimJogadores" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dtsSimJogadores" msprop:Generator_UserDSName="dtsSimJogadores">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="similaridade_jogadores" msprop:Generator_TableClassName="similaridade_jogadoresDataTable" msprop:Generator_TableVarName="tablesimilaridade_jogadores" msprop:Generator_TablePropName="similaridade_jogadores" msprop:Generator_RowDeletingName="similaridade_jogadoresRowDeleting" msprop:Generator_RowChangingName="similaridade_jogadoresRowChanging" msprop:Generator_RowEvHandlerName="similaridade_jogadoresRowChangeEventHandler" msprop:Generator_RowDeletedName="similaridade_jogadoresRowDeleted" msprop:Generator_UserTableName="similaridade_jogadores" msprop:Generator_RowChangedName="similaridade_jogadoresRowChanged" msprop:Generator_RowEvArgName="similaridade_jogadoresRowChangeEvent" msprop:Generator_RowClassName="similaridade_jogadoresRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnVarNameInTable="columnid" msprop:Generator_ColumnPropNameInRow="id" msprop:Generator_ColumnPropNameInTable="idColumn" msprop:Generator_UserColumnName="id" type="xs:int" />
+              <xs:element name="posicao" msprop:Generator_ColumnVarNameInTable="columnposicao" msprop:Generator_ColumnPropNameInRow="posicao" msprop:Generator_ColumnPropNameInTable="posicaoColumn" msprop:Generator_UserColumnName="posicao" type="xs:string" minOccurs="0" />
+              <xs:element name="centroavante" msprop:Generator_ColumnVarNameInTable="columncentroavante" msprop:Generator_ColumnPropNameInRow="centroavante" msprop:Generator_ColumnPropNameInTable="centroavanteColumn" msprop:Generator_UserColumnName="centroavante" type="xs:double" minOccurs="0" />
+              <xs:element name="atacante" msprop:Generator_ColumnVarNameInTable="columnatacante" msprop:Generator_ColumnPropNameInRow="atacante" msprop:Generator_ColumnPropNameInTable="atacanteColumn" msprop:Generator_UserColumnName="atacante" type="xs:double" minOccurs="0" />
+              <xs:element name="meia_atacante" msprop:Generator_ColumnVarNameInTable="columnmeia_atacante" msprop:Generator_ColumnPropNameInRow="meia_atacante" msprop:Generator_ColumnPropNameInTable="meia_atacanteColumn" msprop:Generator_UserColumnName="meia_atacante" type="xs:double" minOccurs="0" />
+              <xs:element name="meio_campo_lateral" msprop:Generator_ColumnVarNameInTable="columnmeio_campo_lateral" msprop:Generator_ColumnPropNameInRow="meio_campo_lateral" msprop:Generator_ColumnPropNameInTable="meio_campo_lateralColumn" msprop:Generator_UserColumnName="meio_campo_lateral" type="xs:double" minOccurs="0" />
+              <xs:element name="meio_campo_central" msprop:Generator_ColumnVarNameInTable="columnmeio_campo_central" msprop:Generator_ColumnPropNameInRow="meio_campo_central" msprop:Generator_ColumnPropNameInTable="meio_campo_centralColumn" msprop:Generator_UserColumnName="meio_campo_central" type="xs:double" minOccurs="0" />
+              <xs:element name="volante" msprop:Generator_ColumnVarNameInTable="columnvolante" msprop:Generator_ColumnPropNameInRow="volante" msprop:Generator_ColumnPropNameInTable="volanteColumn" msprop:Generator_UserColumnName="volante" type="xs:double" minOccurs="0" />
+              <xs:element name="zagueiro" msprop:Generator_ColumnVarNameInTable="columnzagueiro" msprop:Generator_ColumnPropNameInRow="zagueiro" msprop:Generator_ColumnPropNameInTable="zagueiroColumn" msprop:Generator_UserColumnName="zagueiro" type="xs:double" minOccurs="0" />
+              <xs:element name="lateral_direito" msprop:Generator_ColumnVarNameInTable="columnlateral_direito" msprop:Generator_ColumnPropNameInRow="lateral_direito" msprop:Generator_ColumnPropNameInTable="lateral_direitoColumn" msprop:Generator_UserColumnName="lateral_direito" type="xs:double" minOccurs="0" />
+              <xs:element name="lateral_esquerdo" msprop:Generator_ColumnVarNameInTable="columnlateral_esquerdo" msprop:Generator_ColumnPropNameInRow="lateral_esquerdo" msprop:Generator_ColumnPropNameInTable="lateral_esquerdoColumn" msprop:Generator_UserColumnName="lateral_esquerdo" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:similaridade_jogadores" />
+      <xs:field xpath="mstns:id" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

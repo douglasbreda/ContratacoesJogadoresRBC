@@ -1,0 +1,68 @@
+C:\Users\Dell\Desktop\BancoDeDados 1.2\Bibilioteca\bin\Debug\Bibilioteca.dll
+C:\Users\Dell\Desktop\BancoDeDados 1.2\Bibilioteca\bin\Debug\Bibilioteca.pdb
+C:\Users\Dell\Desktop\BancoDeDados 1.2\Bibilioteca\obj\Debug\Bibilioteca.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\BancoDeDados 1.2\Bibilioteca\obj\Debug\Bibilioteca.dll
+C:\Users\Dell\Desktop\BancoDeDados 1.2\Bibilioteca\obj\Debug\Bibilioteca.pdb
+C:\Users\Dell\Desktop\BancoDeDados 1.2\Bibilioteca\bin\Debug\BancoDeDados.dll
+C:\Users\Dell\Desktop\BancoDeDados 1.2\Bibilioteca\bin\Debug\Npgsql.dll
+C:\Users\Dell\Desktop\BancoDeDados 1.2\Bibilioteca\bin\Debug\NegocioPrincipal.dll
+C:\Users\Dell\Desktop\BancoDeDados 1.2\Bibilioteca\bin\Debug\Mono.Security.dll
+C:\Users\Dell\Desktop\BancoDeDados 1.2\Bibilioteca\bin\Debug\BancoDeDados.pdb
+C:\Users\Dell\Desktop\BancoDeDados 1.2\Bibilioteca\bin\Debug\Npgsql.pdb
+C:\Users\Dell\Desktop\BancoDeDados 1.2\Bibilioteca\bin\Debug\Npgsql.xml
+C:\Users\Dell\Desktop\BancoDeDados 1.2\Bibilioteca\bin\Debug\NegocioPrincipal.pdb
+C:\Users\Dell\Desktop\BancoDeDados 1.2\Bibilioteca\bin\Debug\de\Npgsql.resources.dll
+C:\Users\Dell\Desktop\BancoDeDados 1.2\Bibilioteca\bin\Debug\es\Npgsql.resources.dll
+C:\Users\Dell\Desktop\BancoDeDados 1.2\Bibilioteca\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\Dell\Desktop\BancoDeDados 1.2\Bibilioteca\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\Dell\Desktop\BancoDeDados 1.2\Bibilioteca\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\Dell\Desktop\BancoDeDados 1.2\Bibilioteca\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\Dell\Desktop\BancoDeDados 1.5\Bibilioteca\bin\Debug\Bibilioteca.dll
+C:\Users\Dell\Desktop\BancoDeDados 1.5\Bibilioteca\bin\Debug\Bibilioteca.pdb
+C:\Users\Dell\Desktop\BancoDeDados 1.5\Bibilioteca\bin\Debug\BancoDeDados.dll
+C:\Users\Dell\Desktop\BancoDeDados 1.5\Bibilioteca\bin\Debug\Npgsql.dll
+C:\Users\Dell\Desktop\BancoDeDados 1.5\Bibilioteca\bin\Debug\NegocioPrincipal.dll
+C:\Users\Dell\Desktop\BancoDeDados 1.5\Bibilioteca\bin\Debug\Mono.Security.dll
+C:\Users\Dell\Desktop\BancoDeDados 1.5\Bibilioteca\bin\Debug\BancoDeDados.pdb
+C:\Users\Dell\Desktop\BancoDeDados 1.5\Bibilioteca\bin\Debug\Npgsql.pdb
+C:\Users\Dell\Desktop\BancoDeDados 1.5\Bibilioteca\bin\Debug\Npgsql.xml
+C:\Users\Dell\Desktop\BancoDeDados 1.5\Bibilioteca\bin\Debug\NegocioPrincipal.pdb
+C:\Users\Dell\Desktop\BancoDeDados 1.5\Bibilioteca\bin\Debug\de\Npgsql.resources.dll
+C:\Users\Dell\Desktop\BancoDeDados 1.5\Bibilioteca\bin\Debug\es\Npgsql.resources.dll
+C:\Users\Dell\Desktop\BancoDeDados 1.5\Bibilioteca\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\Dell\Desktop\BancoDeDados 1.5\Bibilioteca\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\Dell\Desktop\BancoDeDados 1.5\Bibilioteca\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\Dell\Desktop\BancoDeDados 1.5\Bibilioteca\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\Dell\Desktop\BancoDeDados 1.5\Bibilioteca\obj\Debug\Bibilioteca.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\BancoDeDados 1.5\Bibilioteca\obj\Debug\Bibilioteca.dll
+C:\Users\Dell\Desktop\BancoDeDados 1.5\Bibilioteca\obj\Debug\Bibilioteca.pdb
+C:\Users\dougl\Documents\Visual Studio 2015\Projects\BancoDeDados 1.5\Bibilioteca\bin\Debug\Bibilioteca.dll
+C:\Users\dougl\Documents\Visual Studio 2015\Projects\BancoDeDados 1.5\Bibilioteca\bin\Debug\Bibilioteca.pdb
+C:\Users\dougl\Documents\Visual Studio 2015\Projects\BancoDeDados 1.5\Bibilioteca\bin\Debug\BancoDeDados.dll
+C:\Users\dougl\Documents\Visual Studio 2015\Projects\BancoDeDados 1.5\Bibilioteca\bin\Debug\Npgsql.dll
+C:\Users\dougl\Documents\Visual Studio 2015\Projects\BancoDeDados 1.5\Bibilioteca\bin\Debug\NegocioPrincipal.dll
+C:\Users\dougl\Documents\Visual Studio 2015\Projects\BancoDeDados 1.5\Bibilioteca\bin\Debug\Mono.Security.dll
+C:\Users\dougl\Documents\Visual Studio 2015\Projects\BancoDeDados 1.5\Bibilioteca\bin\Debug\BancoDeDados.pdb
+C:\Users\dougl\Documents\Visual Studio 2015\Projects\BancoDeDados 1.5\Bibilioteca\bin\Debug\Npgsql.pdb
+C:\Users\dougl\Documents\Visual Studio 2015\Projects\BancoDeDados 1.5\Bibilioteca\bin\Debug\Npgsql.xml
+C:\Users\dougl\Documents\Visual Studio 2015\Projects\BancoDeDados 1.5\Bibilioteca\bin\Debug\NegocioPrincipal.pdb
+C:\Users\dougl\Documents\Visual Studio 2015\Projects\BancoDeDados 1.5\Bibilioteca\bin\Debug\de\Npgsql.resources.dll
+C:\Users\dougl\Documents\Visual Studio 2015\Projects\BancoDeDados 1.5\Bibilioteca\bin\Debug\es\Npgsql.resources.dll
+C:\Users\dougl\Documents\Visual Studio 2015\Projects\BancoDeDados 1.5\Bibilioteca\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\dougl\Documents\Visual Studio 2015\Projects\BancoDeDados 1.5\Bibilioteca\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\dougl\Documents\Visual Studio 2015\Projects\BancoDeDados 1.5\Bibilioteca\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\dougl\Documents\Visual Studio 2015\Projects\BancoDeDados 1.5\Bibilioteca\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\dougl\Documents\Visual Studio 2015\Projects\BancoDeDados 1.5\Bibilioteca\obj\Debug\Bibilioteca.csprojResolveAssemblyReference.cache
+C:\Users\dougl\Documents\Visual Studio 2015\Projects\BancoDeDados 1.5\Bibilioteca\obj\Debug\Bibilioteca.dll
+C:\Users\dougl\Documents\Visual Studio 2015\Projects\BancoDeDados 1.5\Bibilioteca\obj\Debug\Bibilioteca.pdb
+C:\Users\dougl\Documents\7º Período\Inteligência Artificial\ContratacoesJogadoresRBC\Bibilioteca\obj\Debug\Bibilioteca.csprojResolveAssemblyReference.cache
+C:\Users\dougl\Documents\7º Período\Inteligência Artificial\ContratacoesJogadoresRBC\Bibilioteca\bin\Debug\Bibilioteca.dll
+C:\Users\dougl\Documents\7º Período\Inteligência Artificial\ContratacoesJogadoresRBC\Bibilioteca\bin\Debug\Bibilioteca.pdb
+C:\Users\dougl\Documents\7º Período\Inteligência Artificial\ContratacoesJogadoresRBC\Bibilioteca\bin\Debug\BancoDeDados.dll
+C:\Users\dougl\Documents\7º Período\Inteligência Artificial\ContratacoesJogadoresRBC\Bibilioteca\bin\Debug\Mono.Security.dll
+C:\Users\dougl\Documents\7º Período\Inteligência Artificial\ContratacoesJogadoresRBC\Bibilioteca\bin\Debug\Npgsql.dll
+C:\Users\dougl\Documents\7º Período\Inteligência Artificial\ContratacoesJogadoresRBC\Bibilioteca\bin\Debug\CamadaNegocioPrincipal.dll
+C:\Users\dougl\Documents\7º Período\Inteligência Artificial\ContratacoesJogadoresRBC\Bibilioteca\bin\Debug\BancoDeDados.pdb
+C:\Users\dougl\Documents\7º Período\Inteligência Artificial\ContratacoesJogadoresRBC\Bibilioteca\bin\Debug\CamadaNegocioPrincipal.pdb
+C:\Users\dougl\Documents\7º Período\Inteligência Artificial\ContratacoesJogadoresRBC\Bibilioteca\obj\Debug\Bibilioteca.dll
+C:\Users\dougl\Documents\7º Período\Inteligência Artificial\ContratacoesJogadoresRBC\Bibilioteca\obj\Debug\Bibilioteca.pdb

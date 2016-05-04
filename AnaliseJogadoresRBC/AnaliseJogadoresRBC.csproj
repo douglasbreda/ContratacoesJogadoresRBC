@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AB98F83E-C3A3-469D-B45F-3C259F351605}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AnaliseJogadoresRBC</RootNamespace>
+    <AssemblyName>AnaliseJogadoresRBC</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BancoDeDados, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\BancoDeDados\bin\Release\BancoDeDados.dll</HintPath>
+    </Reference>
+    <Reference Include="Bibilioteca">
+      <HintPath>..\..\..\..\Visual Studio 2015\Projects\BancoGeoEspacial\BancoGeoEspacial\Bibilioteca\bin\Debug\Bibilioteca.dll</HintPath>
+    </Reference>
+    <Reference Include="CamadaNegocioPrincipal">
+      <HintPath>..\CamadaNegocioPrincipal\bin\Debug\CamadaNegocioPrincipal.dll</HintPath>
+    </Reference>
+    <Reference Include="Componentes">
+      <HintPath>..\Componentes\bin\Debug\Componentes.dll</HintPath>
+    </Reference>
+    <Reference Include="Npgsql, Version=2.2.3.0, Culture=neutral, PublicKeyToken=5d8b90d52f46fda7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\BancoDeDados\bin\Release\Npgsql.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Analise.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Atributos.cs" />
+    <Compile Include="Cadastro.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="dtsCadastro.Designer.cs">
+      <DependentUpon>dtsCadastro.xsd</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="dtsPesoContrato.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dtsPesoContrato.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dtsPesoPosicao.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dtsPesoPosicao.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dtsSimJogadores.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dtsSimJogadores.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dtsSimLesao.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dtsSimLesao.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="formAnalise.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formAnalise.Designer.cs">
+      <DependentUpon>formAnalise.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formInicial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formInicial.Designer.cs">
+      <DependentUpon>formInicial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formJogadores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formJogadores.Designer.cs">
+      <DependentUpon>formJogadores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formPesquisa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formPesquisa.Designer.cs">
+      <DependentUpon>formPesquisa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="formAnalise.resx">
+      <DependentUpon>formAnalise.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formInicial.resx">
+      <DependentUpon>formInicial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formJogadores.resx">
+      <DependentUpon>formJogadores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formPesquisa.resx">
+      <DependentUpon>formPesquisa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="dtsCadastro.xsc">
+      <DependentUpon>dtsCadastro.xsd</DependentUpon>
+    </None>
+    <None Include="dtsCadastro.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dtsCadastro.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dtsCadastro.xss">
+      <DependentUpon>dtsCadastro.xsd</DependentUpon>
+    </None>
+    <None Include="dtsPesoContrato.xsc">
+      <DependentUpon>dtsPesoContrato.xsd</DependentUpon>
+    </None>
+    <None Include="dtsPesoContrato.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dtsPesoContrato.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dtsPesoContrato.xss">
+      <DependentUpon>dtsPesoContrato.xsd</DependentUpon>
+    </None>
+    <None Include="dtsPesoPosicao.xsc">
+      <DependentUpon>dtsPesoPosicao.xsd</DependentUpon>
+    </None>
+    <None Include="dtsPesoPosicao.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dtsPesoPosicao.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dtsPesoPosicao.xss">
+      <DependentUpon>dtsPesoPosicao.xsd</DependentUpon>
+    </None>
+    <None Include="dtsSimJogadores.xsc">
+      <DependentUpon>dtsSimJogadores.xsd</DependentUpon>
+    </None>
+    <None Include="dtsSimJogadores.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dtsSimJogadores.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dtsSimJogadores.xss">
+      <DependentUpon>dtsSimJogadores.xsd</DependentUpon>
+    </None>
+    <None Include="dtsSimLesao.xsc">
+      <DependentUpon>dtsSimLesao.xsd</DependentUpon>
+    </None>
+    <None Include="dtsSimLesao.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dtsSimLesao.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dtsSimLesao.xss">
+      <DependentUpon>dtsSimLesao.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Forms\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

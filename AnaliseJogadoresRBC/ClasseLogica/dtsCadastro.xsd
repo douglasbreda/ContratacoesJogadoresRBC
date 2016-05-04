@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dtsCadastro" targetNamespace="http://tempuri.org/dtsCadastro.xsd" xmlns:mstns="http://tempuri.org/dtsCadastro.xsd" xmlns="http://tempuri.org/dtsCadastro.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dtsCadastro" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dtsCadastro" msprop:Generator_UserDSName="dtsCadastro">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="jogadores" msprop:Generator_TableClassName="jogadoresDataTable" msprop:Generator_TableVarName="tablejogadores" msprop:Generator_TablePropName="jogadores" msprop:Generator_RowDeletingName="jogadoresRowDeleting" msprop:Generator_RowChangingName="jogadoresRowChanging" msprop:Generator_RowEvHandlerName="jogadoresRowChangeEventHandler" msprop:Generator_RowDeletedName="jogadoresRowDeleted" msprop:Generator_UserTableName="jogadores" msprop:Generator_RowChangedName="jogadoresRowChanged" msprop:Generator_RowEvArgName="jogadoresRowChangeEvent" msprop:Generator_RowClassName="jogadoresRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnVarNameInTable="columnid" msprop:Generator_ColumnPropNameInRow="id" msprop:Generator_ColumnPropNameInTable="idColumn" msprop:Generator_UserColumnName="id" type="xs:int" />
+              <xs:element name="idade" msprop:Generator_ColumnVarNameInTable="columnidade" msprop:Generator_ColumnPropNameInRow="idade" msprop:Generator_ColumnPropNameInTable="idadeColumn" msprop:Generator_UserColumnName="idade" type="xs:int" minOccurs="0" />
+              <xs:element name="salario" msprop:Generator_ColumnVarNameInTable="columnsalario" msprop:Generator_ColumnPropNameInRow="salario" msprop:Generator_ColumnPropNameInTable="salarioColumn" msprop:Generator_UserColumnName="salario" type="xs:double" minOccurs="0" />
+              <xs:element name="posicao" msprop:Generator_ColumnVarNameInTable="columnposicao" msprop:Generator_ColumnPropNameInRow="posicao" msprop:Generator_ColumnPropNameInTable="posicaoColumn" msprop:Generator_UserColumnName="posicao" type="xs:string" minOccurs="0" />
+              <xs:element name="altura" msprop:Generator_ColumnVarNameInTable="columnaltura" msprop:Generator_ColumnPropNameInRow="altura" msprop:Generator_ColumnPropNameInTable="alturaColumn" msprop:Generator_UserColumnName="altura" type="xs:double" minOccurs="0" />
+              <xs:element name="peso" msprop:Generator_ColumnVarNameInTable="columnpeso" msprop:Generator_ColumnPropNameInRow="peso" msprop:Generator_ColumnPropNameInTable="pesoColumn" msprop:Generator_UserColumnName="peso" type="xs:double" minOccurs="0" />
+              <xs:element name="gols_temporada" msprop:Generator_ColumnVarNameInTable="columngols_temporada" msprop:Generator_ColumnPropNameInRow="gols_temporada" msprop:Generator_ColumnPropNameInTable="gols_temporadaColumn" msprop:Generator_UserColumnName="gols_temporada" type="xs:int" minOccurs="0" />
+              <xs:element name="assistencias_temporada" msprop:Generator_ColumnVarNameInTable="columnassistencias_temporada" msprop:Generator_ColumnPropNameInRow="assistencias_temporada" msprop:Generator_ColumnPropNameInTable="assistencias_temporadaColumn" msprop:Generator_UserColumnName="assistencias_temporada" type="xs:int" minOccurs="0" />
+              <xs:element name="cartoes_amarelo_temporada" msprop:Generator_ColumnVarNameInTable="columncartoes_amarelo_temporada" msprop:Generator_ColumnPropNameInRow="cartoes_amarelo_temporada" msprop:Generator_ColumnPropNameInTable="cartoes_amarelo_temporadaColumn" msprop:Generator_UserColumnName="cartoes_amarelo_temporada" type="xs:int" minOccurs="0" />
+              <xs:element name="desarmes" msprop:Generator_ColumnVarNameInTable="columndesarmes" msprop:Generator_ColumnPropNameInRow="desarmes" msprop:Generator_ColumnPropNameInTable="desarmesColumn" msprop:Generator_UserColumnName="desarmes" type="xs:int" minOccurs="0" />
+              <xs:element name="defesas" msprop:Generator_ColumnVarNameInTable="columndefesas" msprop:Generator_ColumnPropNameInRow="defesas" msprop:Generator_ColumnPropNameInTable="defesasColumn" msprop:Generator_UserColumnName="defesas" type="xs:int" minOccurs="0" />
+              <xs:element name="lesao" msprop:Generator_ColumnVarNameInTable="columnlesao" msprop:Generator_ColumnPropNameInRow="lesao" msprop:Generator_ColumnPropNameInTable="lesaoColumn" msprop:Generator_UserColumnName="lesao" type="xs:string" minOccurs="0" />
+              <xs:element name="nome" msprop:Generator_ColumnVarNameInTable="columnnome" msprop:Generator_ColumnPropNameInRow="nome" msprop:Generator_ColumnPropNameInTable="nomeColumn" msprop:Generator_UserColumnName="nome" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:jogadores" />
+      <xs:field xpath="mstns:id" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,12 @@
+C:\Users\dougl\Documents\7º Período\Inteligência Artificial\ContratacoesJogadoresRBC\AnaliseJogadoresRBC\ClasseLogica\obj\Release\ClasseLogica.csprojResolveAssemblyReference.cache
+C:\Users\dougl\Documents\7º Período\Inteligência Artificial\ContratacoesJogadoresRBC\AnaliseJogadoresRBC\ClasseLogica\bin\Release\ClasseLogica.dll
+C:\Users\dougl\Documents\7º Período\Inteligência Artificial\ContratacoesJogadoresRBC\AnaliseJogadoresRBC\ClasseLogica\bin\Release\ClasseLogica.pdb
+C:\Users\dougl\Documents\7º Período\Inteligência Artificial\ContratacoesJogadoresRBC\AnaliseJogadoresRBC\ClasseLogica\bin\Release\BancoDeDados.dll
+C:\Users\dougl\Documents\7º Período\Inteligência Artificial\ContratacoesJogadoresRBC\AnaliseJogadoresRBC\ClasseLogica\bin\Release\NegocioPrincipal.dll
+C:\Users\dougl\Documents\7º Período\Inteligência Artificial\ContratacoesJogadoresRBC\AnaliseJogadoresRBC\ClasseLogica\bin\Release\Npgsql.dll
+C:\Users\dougl\Documents\7º Período\Inteligência Artificial\ContratacoesJogadoresRBC\AnaliseJogadoresRBC\ClasseLogica\bin\Release\Bibilioteca.dll
+C:\Users\dougl\Documents\7º Período\Inteligência Artificial\ContratacoesJogadoresRBC\AnaliseJogadoresRBC\ClasseLogica\bin\Release\NegocioPrincipal.pdb
+C:\Users\dougl\Documents\7º Período\Inteligência Artificial\ContratacoesJogadoresRBC\AnaliseJogadoresRBC\ClasseLogica\obj\Release\ClasseLogica.dll
+C:\Users\dougl\Documents\7º Período\Inteligência Artificial\ContratacoesJogadoresRBC\AnaliseJogadoresRBC\ClasseLogica\obj\Release\ClasseLogica.pdb
+C:\Users\dougl\Documents\7º Período\Inteligência Artificial\ContratacoesJogadoresRBC\AnaliseJogadoresRBC\ClasseLogica\bin\Release\BancoDeDados.pdb
+C:\Users\dougl\Documents\7º Período\Inteligência Artificial\ContratacoesJogadoresRBC\AnaliseJogadoresRBC\ClasseLogica\bin\Release\Bibilioteca.pdb

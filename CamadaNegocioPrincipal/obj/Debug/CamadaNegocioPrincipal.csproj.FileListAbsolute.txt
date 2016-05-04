@@ -1,0 +1,11 @@
+C:\Users\dougl\Documents\7º Período\Inteligência Artificial\ContratacoesJogadoresRBC\CamadaNegocioPrincipal\bin\Debug\CamadaNegocioPrincipal.dll
+C:\Users\dougl\Documents\7º Período\Inteligência Artificial\ContratacoesJogadoresRBC\CamadaNegocioPrincipal\bin\Debug\CamadaNegocioPrincipal.pdb
+C:\Users\dougl\Documents\7º Período\Inteligência Artificial\ContratacoesJogadoresRBC\CamadaNegocioPrincipal\bin\Debug\BancoDeDados.dll
+C:\Users\dougl\Documents\7º Período\Inteligência Artificial\ContratacoesJogadoresRBC\CamadaNegocioPrincipal\bin\Debug\Bibilioteca.dll
+C:\Users\dougl\Documents\7º Período\Inteligência Artificial\ContratacoesJogadoresRBC\CamadaNegocioPrincipal\bin\Debug\Npgsql.dll
+C:\Users\dougl\Documents\7º Período\Inteligência Artificial\ContratacoesJogadoresRBC\CamadaNegocioPrincipal\bin\Debug\Mono.Security.dll
+C:\Users\dougl\Documents\7º Período\Inteligência Artificial\ContratacoesJogadoresRBC\CamadaNegocioPrincipal\bin\Debug\BancoDeDados.pdb
+C:\Users\dougl\Documents\7º Período\Inteligência Artificial\ContratacoesJogadoresRBC\CamadaNegocioPrincipal\bin\Debug\Bibilioteca.pdb
+C:\Users\dougl\Documents\7º Período\Inteligência Artificial\ContratacoesJogadoresRBC\CamadaNegocioPrincipal\obj\Debug\CamadaNegocioPrincipal.csprojResolveAssemblyReference.cache
+C:\Users\dougl\Documents\7º Período\Inteligência Artificial\ContratacoesJogadoresRBC\CamadaNegocioPrincipal\obj\Debug\CamadaNegocioPrincipal.dll
+C:\Users\dougl\Documents\7º Período\Inteligência Artificial\ContratacoesJogadoresRBC\CamadaNegocioPrincipal\obj\Debug\CamadaNegocioPrincipal.pdb

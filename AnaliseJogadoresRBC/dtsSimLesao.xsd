@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dtsSimLesao" targetNamespace="http://tempuri.org/dtsSimLesao.xsd" xmlns:mstns="http://tempuri.org/dtsSimLesao.xsd" xmlns="http://tempuri.org/dtsSimLesao.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dtsSimLesao" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dtsSimLesao" msprop:Generator_UserDSName="dtsSimLesao">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="similaridade_lesao" msprop:Generator_TableClassName="similaridade_lesaoDataTable" msprop:Generator_TableVarName="tablesimilaridade_lesao" msprop:Generator_TablePropName="similaridade_lesao" msprop:Generator_RowDeletingName="similaridade_lesaoRowDeleting" msprop:Generator_RowChangingName="similaridade_lesaoRowChanging" msprop:Generator_RowEvHandlerName="similaridade_lesaoRowChangeEventHandler" msprop:Generator_RowDeletedName="similaridade_lesaoRowDeleted" msprop:Generator_UserTableName="similaridade_lesao" msprop:Generator_RowChangedName="similaridade_lesaoRowChanged" msprop:Generator_RowEvArgName="similaridade_lesaoRowChangeEvent" msprop:Generator_RowClassName="similaridade_lesaoRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnVarNameInTable="columnid" msprop:Generator_ColumnPropNameInRow="id" msprop:Generator_ColumnPropNameInTable="idColumn" msprop:Generator_UserColumnName="id" type="xs:int" minOccurs="0" />
+              <xs:element name="lesao" msprop:Generator_ColumnVarNameInTable="columnlesao" msprop:Generator_ColumnPropNameInRow="lesao" msprop:Generator_ColumnPropNameInTable="lesaoColumn" msprop:Generator_UserColumnName="lesao" type="xs:string" minOccurs="0" />
+              <xs:element name="raramente" msprop:Generator_ColumnVarNameInTable="columnraramente" msprop:Generator_ColumnPropNameInRow="raramente" msprop:Generator_ColumnPropNameInTable="raramenteColumn" msprop:Generator_UserColumnName="raramente" type="xs:double" minOccurs="0" />
+              <xs:element name="dificilmente" msprop:Generator_ColumnVarNameInTable="columndificilmente" msprop:Generator_ColumnPropNameInRow="dificilmente" msprop:Generator_ColumnPropNameInTable="dificilmenteColumn" msprop:Generator_UserColumnName="dificilmente" type="xs:double" minOccurs="0" />
+              <xs:element name="baixo" msprop:Generator_ColumnVarNameInTable="columnbaixo" msprop:Generator_ColumnPropNameInRow="baixo" msprop:Generator_ColumnPropNameInTable="baixoColumn" msprop:Generator_UserColumnName="baixo" type="xs:double" minOccurs="0" />
+              <xs:element name="medio" msprop:Generator_ColumnVarNameInTable="columnmedio" msprop:Generator_ColumnPropNameInRow="medio" msprop:Generator_ColumnPropNameInTable="medioColumn" msprop:Generator_UserColumnName="medio" type="xs:double" minOccurs="0" />
+              <xs:element name="alto" msprop:Generator_ColumnVarNameInTable="columnalto" msprop:Generator_ColumnPropNameInRow="alto" msprop:Generator_ColumnPropNameInTable="altoColumn" msprop:Generator_UserColumnName="alto" type="xs:double" minOccurs="0" />
+              <xs:element name="constantemente" msprop:Generator_ColumnVarNameInTable="columnconstantemente" msprop:Generator_ColumnPropNameInRow="constantemente" msprop:Generator_ColumnPropNameInTable="constantementeColumn" msprop:Generator_UserColumnName="constantemente" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dtsPesoContrato" targetNamespace="http://tempuri.org/dtsPesoContrato.xsd" xmlns:mstns="http://tempuri.org/dtsPesoContrato.xsd" xmlns="http://tempuri.org/dtsPesoContrato.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dtsPesoContrato" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dtsPesoContrato" msprop:Generator_UserDSName="dtsPesoContrato">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="peso_contrato" msprop:Generator_TableClassName="peso_contratoDataTable" msprop:Generator_TableVarName="tablepeso_contrato" msprop:Generator_TablePropName="peso_contrato" msprop:Generator_RowDeletingName="peso_contratoRowDeleting" msprop:Generator_RowChangingName="peso_contratoRowChanging" msprop:Generator_RowEvHandlerName="peso_contratoRowChangeEventHandler" msprop:Generator_RowDeletedName="peso_contratoRowDeleted" msprop:Generator_UserTableName="peso_contrato" msprop:Generator_RowChangedName="peso_contratoRowChanged" msprop:Generator_RowEvArgName="peso_contratoRowChangeEvent" msprop:Generator_RowClassName="peso_contratoRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnVarNameInTable="columnid" msprop:Generator_ColumnPropNameInRow="id" msprop:Generator_ColumnPropNameInTable="idColumn" msprop:Generator_UserColumnName="id" type="xs:int" />
+              <xs:element name="duracao" msprop:Generator_ColumnVarNameInTable="columnduracao" msprop:Generator_ColumnPropNameInRow="duracao" msprop:Generator_ColumnPropNameInTable="duracaoColumn" msprop:Generator_UserColumnName="duracao" type="xs:string" minOccurs="0" />
+              <xs:element name="um" msprop:Generator_ColumnVarNameInTable="columnum" msprop:Generator_ColumnPropNameInRow="um" msprop:Generator_ColumnPropNameInTable="umColumn" msprop:Generator_UserColumnName="um" type="xs:double" minOccurs="0" />
+              <xs:element name="dois" msprop:Generator_ColumnVarNameInTable="columndois" msprop:Generator_ColumnPropNameInRow="dois" msprop:Generator_ColumnPropNameInTable="doisColumn" msprop:Generator_UserColumnName="dois" type="xs:double" minOccurs="0" />
+              <xs:element name="tres" msprop:Generator_ColumnVarNameInTable="columntres" msprop:Generator_ColumnPropNameInRow="tres" msprop:Generator_ColumnPropNameInTable="tresColumn" msprop:Generator_UserColumnName="tres" type="xs:double" minOccurs="0" />
+              <xs:element name="quatro" msprop:Generator_ColumnVarNameInTable="columnquatro" msprop:Generator_ColumnPropNameInRow="quatro" msprop:Generator_ColumnPropNameInTable="quatroColumn" msprop:Generator_UserColumnName="quatro" type="xs:double" minOccurs="0" />
+              <xs:element name="cinco" msprop:Generator_ColumnVarNameInTable="columncinco" msprop:Generator_ColumnPropNameInRow="cinco" msprop:Generator_ColumnPropNameInTable="cincoColumn" msprop:Generator_UserColumnName="cinco" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:peso_contrato" />
+      <xs:field xpath="mstns:id" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

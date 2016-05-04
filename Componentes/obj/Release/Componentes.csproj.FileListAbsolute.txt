@@ -1,0 +1,15 @@
+C:\Users\dougl\Documents\7º Período\Inteligência Artificial\ContratacoesJogadoresRBC\Componentes\obj\Release\Componente.formCadastro.resources
+C:\Users\dougl\Documents\7º Período\Inteligência Artificial\ContratacoesJogadoresRBC\Componentes\obj\Release\Componentes.Properties.Resources.resources
+C:\Users\dougl\Documents\7º Período\Inteligência Artificial\ContratacoesJogadoresRBC\Componentes\obj\Release\Componentes.csproj.GenerateResource.Cache
+C:\Users\dougl\Documents\7º Período\Inteligência Artificial\ContratacoesJogadoresRBC\Componentes\bin\Release\Componentes.dll
+C:\Users\dougl\Documents\7º Período\Inteligência Artificial\ContratacoesJogadoresRBC\Componentes\bin\Release\Componentes.pdb
+C:\Users\dougl\Documents\7º Período\Inteligência Artificial\ContratacoesJogadoresRBC\Componentes\bin\Release\BancoDeDados.dll
+C:\Users\dougl\Documents\7º Período\Inteligência Artificial\ContratacoesJogadoresRBC\Componentes\bin\Release\Bibilioteca.dll
+C:\Users\dougl\Documents\7º Período\Inteligência Artificial\ContratacoesJogadoresRBC\Componentes\bin\Release\CamadaNegocioPrincipal.dll
+C:\Users\dougl\Documents\7º Período\Inteligência Artificial\ContratacoesJogadoresRBC\Componentes\bin\Release\Npgsql.dll
+C:\Users\dougl\Documents\7º Período\Inteligência Artificial\ContratacoesJogadoresRBC\Componentes\bin\Release\BancoDeDados.pdb
+C:\Users\dougl\Documents\7º Período\Inteligência Artificial\ContratacoesJogadoresRBC\Componentes\bin\Release\Bibilioteca.pdb
+C:\Users\dougl\Documents\7º Período\Inteligência Artificial\ContratacoesJogadoresRBC\Componentes\bin\Release\CamadaNegocioPrincipal.pdb
+C:\Users\dougl\Documents\7º Período\Inteligência Artificial\ContratacoesJogadoresRBC\Componentes\obj\Release\Componentes.dll
+C:\Users\dougl\Documents\7º Período\Inteligência Artificial\ContratacoesJogadoresRBC\Componentes\obj\Release\Componentes.pdb
+C:\Users\dougl\Documents\7º Período\Inteligência Artificial\ContratacoesJogadoresRBC\Componentes\bin\Release\Mono.Security.dll
